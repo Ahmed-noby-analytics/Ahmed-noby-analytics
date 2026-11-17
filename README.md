@@ -34,22 +34,22 @@ Turning raw data into meaningful insights through data analysis, visualization, 
 
 <div align="center">
 
-### 🗄️ [SQL Analysis](https://github.com/YOUR_GITHUB_USERNAME/sql-analysis)
+### 🗄️ [SQL Analysis](https://github.com/Ahmed-noby-analytics/sql-analysis)
 
 <img src="https://img.shields.io/badge/T--SQL-E48A00?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-### 🚚 [DataCo Supply Chain Performance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/DataCo-Supply-Chain-Performance-Dashboard)
+### 🚚 [DataCo Supply Chain Performance Dashboard](https://github.com/Ahmed-noby-analytics/DataCo-Supply-Chain-Performance-Dashboard)
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Data_Modeling-6A5ACD?style=for-the-badge" alt="Data Modeling"/>
 
-### 🛒 [Olist Brazilian E-Commerce](https://github.com/YOUR_GITHUB_USERNAME/Olist-Brazilian-E-Commerce)
+### 🛒 [Olist Brazilian E-Commerce](https://github.com/Ahmed-noby-analytics/Olist-Brazilian-E-Commerce)
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Data_Modeling-6A5ACD?style=for-the-badge" alt="Data Modeling"/>
 
-### 📈 [Global Electronics Retailer](https://github.com/YOUR_GITHUB_USERNAME/Global-Electronics-Retailer)
+### 📈 [Global Electronics Retailer](https://github.com/Ahmed-noby-analytics/Global-Electronics-Retailer)
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
 <img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot"/>
@@ -57,7 +57,7 @@ Turning raw data into meaningful insights through data analysis, visualization, 
 
 <br>
 
-👉 [**View all my repositories**](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+👉 [**View all my repositories**](https://github.com/Ahmed-noby-analytics?tab=repositories)
 
 </div>
 
