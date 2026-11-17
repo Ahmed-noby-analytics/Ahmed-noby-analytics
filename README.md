@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Noby
@@ -19,10 +18,46 @@ Turning raw data into meaningful insights through data analysis, visualization, 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Projects-View_Repositories-2F80ED?style=for-the-badge&logo=github" alt="My Projects"/>
+</a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 📂 My Projects
+
+<div align="center">
+
+### 🗄️ [SQL Analysis](https://github.com/YOUR_GITHUB_USERNAME/sql-analysis)
+
+<img src="https://img.shields.io/badge/T--SQL-E48A00?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+
+### 🚚 [DataCo Supply Chain Performance Dashboard](https://github.com/YOUR_GITHUB_USERNAME/DataCo-Supply-Chain-Performance-Dashboard)
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Data_Modeling-6A5ACD?style=for-the-badge" alt="Data Modeling"/>
+
+### 🛒 [Olist Brazilian E-Commerce](https://github.com/YOUR_GITHUB_USERNAME/Olist-Brazilian-E-Commerce)
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Data_Modeling-6A5ACD?style=for-the-badge" alt="Data Modeling"/>
+
+### 📈 [Global Electronics Retailer](https://github.com/YOUR_GITHUB_USERNAME/Global-Electronics-Retailer)
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
+
+<br>
+
+👉 [**View all my repositories**](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 
 </div>
 
@@ -70,6 +105,11 @@ I'm interested in exploring data, identifying patterns, and presenting informati
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+
+### 🐍 Programming & Data Collection
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge" alt="Web Scraping"/>
 
 ### ⚙️ Automation & Scripting
 
@@ -127,6 +167,12 @@ SQL & Databases
 ├── NULL Handling
 ├── PostgreSQL
 └── SQL Server
+
+Python & Web Scraping
+├── Python Fundamentals
+├── Data Analysis with Python
+├── Web Scraping
+└── Collecting Data from Websites
 
 Google Apps Script
 ├── JavaScript Fundamentals
