@@ -55,7 +55,7 @@ Turning raw data into meaningful insights through data analysis, visualization, 
 <img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Pivot"/>
 <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX"/>
 
-### 📚🐍 [WordScript](https://github.com/Ahmed-noby-analytics/Web_Scraping-python)
+### 📚🐍 [Web Scraping](https://github.com/Ahmed-noby-analytics/Web_Scraping-python)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=flat&logo=python&logoColor=white" alt="Web Scraping"/>
